@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&family=Poppins&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 1005;
+  height: 600px;
+  color: #1B1A17;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1{
+  margin: 30px;
+  font-size: 40px;
+  font-family: 'Playfair Display', serif;
+}
+
+dt{
+  margin: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}

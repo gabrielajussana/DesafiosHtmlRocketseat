@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  font-size: 60px;
+  text-align: center;
+  margin: 20px;
+  color: #120a2c;
+}
+
+li{
+  list-style: none;
+  margin: 30px;
+}

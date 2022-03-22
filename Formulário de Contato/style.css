@@ -1,0 +1,54 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  display: grid;
+  grid-template-columns: 40% 60%;
+}
+
+
+fieldset{
+  width: 500px;
+  height: 460px;
+  margin-top: 50px;
+  margin-left: 100px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#message{
+  width: 350px;
+  height: 100px;
+}
+
+input{
+  border-radius: 3px;
+  width: 350px;
+}
+
+select{
+  width: 150px;
+}
+
+button{
+  width: 150px;
+  height: 30px;
+  border-radius: 4px;
+  background: #BA68C8;
+  color: #fff;
+  border: none;
+  box-shadow: 5px 5px 5px grey;
+}
+
+.click input{
+  width: 30px;
+}
+img{
+  width: 500px;
+  height: 500px;
+}
